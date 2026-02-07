@@ -1,0 +1,6 @@
+
+{
+  "name": "AI Feedback Hub",
+  "description": "A comprehensive web-based analytics platform that uses Gemini AI to perform sentiment analysis, trend detection, and thematic grouping on user feedback data.",
+  "requestFramePermissions": []
+}
