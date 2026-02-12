@@ -4,31 +4,31 @@
 
 🌟 Features
 
-   📝 Submit and manage feedback
-   
-   📊 Dashboard with feedback overview
-   
-   🤖 AI-generated insights using Gemini API
-   
-   🔐 Authentication view
-   
-   📂 View personal submissions
-   
-   📚 Documentation section
-   
-   🎨 Clean and responsive UI
+    📝 Submit and manage feedback
+    
+    📊 Dashboard with feedback overview
+    
+    🤖 AI-generated insights using Gemini API
+    
+    🔐 Authentication view
+    
+    📂 View personal submissions
+    
+    📚 Documentation section
+    
+    🎨 Clean and responsive UI
 
 🛠️ Tech Stack
 
-   Frontend: React + TypeScript
-   
-   Build Tool: Vite
-   
-   AI Integration: Google Gemini API
-   
-   Styling: CSS / Custom Styling
-   
-   Project Structure: Component-based architecture
+    Frontend: React + TypeScript
+    
+    Build Tool: Vite
+    
+    AI Integration: Google Gemini API
+    
+    Styling: CSS / Custom Styling
+    
+    Project Structure: Component-based architecture
 
 📁 Project Structure
 
